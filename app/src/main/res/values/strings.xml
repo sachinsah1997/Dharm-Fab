@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dharm Fab.</string>
+    <string name="title_activity_home">Home</string>
+
+    <string name="country_prompt">Choose a Category</string>
+    <string-array name="country_arrays">
+        <item>FANCY LACE FABRICS</item>
+        <item>JAQUARD LACE FABRICS</item>
+        <item>DESIGNER LACE FABRICS</item>
+        <item>EMBOSED FABRICS</item>
+        <item>BUBBLE FABRICS</item>
+        <item>DOUBLE CLOTH FABRICS</item>
+        <item>FANCY LEHENGA FABRICS</item>
+        <item>DESIGNERS LEHENGA FABRICS</item>
+        <item>FANCY BLOUSE FABRICS</item>
+        <item>JAQUARD BLOUSE FABRICS</item>
+        <item>CHOLI FABRICS</item>
+        <item>FANCY DUPATTA</item>
+        <item>BANARASI DUPATTA</item>
+        <item>DESIGNERS DUPTTA</item>
+        <item>TAFFETA JAQUARD FABRICS</item>
+        <item>DIGITAL PRINT JAQUARD FABRICS</item>
+        <item>IKKAT FABRICS</item>
+        <item>BROCADE FABRICS</item>
+        <item>BROCADE ALL OVER FABRICS</item>
+        <item>BROCADE GARMENT FABRICS</item>
+        <item>CHINA FANCY JAQUARD FABRICS</item>
+        <item>SHERWANI FABRICS</item>
+        <item>GAMTHI FABRICS</item>
+    </string-array>
+</resources>

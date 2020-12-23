@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "527640531275",
+    "firebase_url": "https://dharmfab-3676a.firebaseio.com",
+    "project_id": "dharmfab-3676a",
+    "storage_bucket": "dharmfab-3676a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527640531275:android:c40d5ddc6e91e8d8",
+        "android_client_info": {
+          "package_name": "com.example.sachin.dharm_fab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527640531275-muoaehll82aaopug74h6hnk8mcn17rkh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5-OhP3UDFDqgFYVliODu7wuXQSvlyitM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

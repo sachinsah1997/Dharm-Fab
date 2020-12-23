@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/blueback"
+    android:paddingTop="50dp"
+    >
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingLeft="10dp"
+    android:paddingTop="10dp"
+    >
+
+<!--
+  
+-->
+    <Button
+        android:background="@drawable/categorytextview"
+        android:id="@+id/fancylace"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="70dp"
+        android:textStyle="bold"
+        android:text="FANCY LACE FABRICS"
+        android:drawablePadding="10dp"
+        />
+
+    <Button
+        android:id="@+id/jaquardlace"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="70dp"
+        android:text="JAQUARD LACE FABRICS"
+        android:background="@drawable/categorytextview"
+        android:textStyle="bold"
+        android:layout_marginTop="25dp"
+        android:drawablePadding="10dp"/>
+    <Button
+        android:id="@+id/designerlace"
+        android:background="@drawable/categorytextview"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:textStyle="bold"
+        android:layout_height="70dp"
+        android:text="DESIGNER LACE FABRICS"
+        android:layout_marginTop="25dp"
+        android:drawablePadding="10dp"/>
+
+    <Button
+        android:id="@+id/embosed"
+        android:background="@drawable/categorytextview"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="70dp"
+        android:textStyle="bold"
+        android:text="EMBOSED FABRICS"
+      
+        android:layout_marginTop="25dp"
+        android:drawablePadding="10dp"/>
+
+    <Button
+        android:id="@+id/bubble"
+        android:background="@drawable/categorytextview"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="70dp"
+        android:textStyle="bold"
+        android:text="BUBBLE FABRICS"
+      
+        android:layout_marginTop="25dp"
+        android:drawablePadding="10dp"/>
+
+    <Button
+        android:id="@+id/doublecloth"
+        android:background="@drawable/categorytextview"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="70dp"
+        android:textStyle="bold"
+        android:text="DOUBLE CLOTH FABRICS"
+      
+        android:layout_marginTop="25dp"
+        android:drawablePadding="10dp"/>
+
+    <Button
+        android:id="@+id/fancylehenga"
+        android:background="@drawable/categorytextview"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="70dp"
+        android:textStyle="bold"
+        android:text="FANCY LEHENGA FABRICS"
+      
+        android:layout_marginTop="25dp"
+        android:drawablePadding="10dp"/>
+
+    <Button
+        android:id="@+id/designerlehenga"
+        android:background="@drawable/categorytextview"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="70dp"
+        android:textStyle="bold"
+        android:text="DESIGNERS LEHENGA FABRICS"
+      
+        android:layout_marginTop="25dp"
+        android:drawablePadding="10dp"/>
+
+    <Button
+        android:id="@+id/fancyblouse"
+        android:background="@drawable/categorytextview"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="70dp"
+        android:textStyle="bold"
+        android:text="FANCY BLOUSE FABRICS"
+      
+        android:layout_marginTop="25dp"
+        android:drawablePadding="10dp"/>
+
+    <Button
+        android:id="@+id/jaquardblouse"
+        android:background="@drawable/categorytextview"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="70dp"
+        android:textStyle="bold"
+        android:text="JAQUARD BLOUSE FABRICS"
+      
+        android:layout_marginTop="25dp"
+        android:drawablePadding="10dp"/>
+
+    <Button
+        android:id="@+id/designerblouse"
+        android:background="@drawable/categorytextview"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="70dp"
+        android:textStyle="bold"
+        android:text="DESIGNERS BLOUSE FABRICS"
+      
+        android:layout_marginTop="25dp"
+        android:drawablePadding="10dp"/>
+
+    <Button
+        android:id="@+id/choli"
+        android:background="@drawable/categorytextview"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="70dp"
+        android:text="CHOLI FABRICS"
+        android:textStyle="bold"
+      
+        android:layout_marginTop="25dp"
+        android:drawablePadding="10dp"/>
+
+    <Button
+        android:id="@+id/fancydupatta"
+        android:background="@drawable/categorytextview"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="70dp"
+        android:textStyle="bold"
+        android:text="FANCY DUPATTA"
+      
+        android:layout_marginTop="25dp"
+        android:drawablePadding="10dp"/>
+
+    <Button
+        android:id="@+id/banarasidupatta"
+        android:background="@drawable/categorytextview"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="70dp"
+        android:textStyle="bold"
+        android:text="BANARASI DUPATTA"
+      
+        android:layout_marginTop="25dp"
+        android:drawablePadding="10dp"/>
+
+    <Button
+        android:id="@+id/designerdupatta"
+        android:background="@drawable/categorytextview"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="70dp"
+        android:textStyle="bold"
+        android:text="DESIGNERS DUPTTA"
+      
+        android:layout_marginTop="25dp"
+        android:drawablePadding="10dp"/>
+
+    <Button
+        android:id="@+id/taffeta"
+        android:background="@drawable/categorytextview"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="70dp"
+        android:textStyle="bold"
+        android:text="TAFFETA JAQUARD FABRICS"
+      
+        android:layout_marginTop="25dp"
+        android:drawablePadding="10dp"/>
+
+    <Button
+        android:id="@+id/digitalprint"
+        android:background="@drawable/categorytextview"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="70dp"
+        android:textStyle="bold"
+        android:text="DIGITAL PRINT JAQUARD FABRICS"
+      
+        android:layout_marginTop="25dp"
+        android:drawablePadding="10dp"/>
+
+    <Button
+        android:id="@+id/ikkat"
+        android:background="@drawable/categorytextview"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="70dp"
+        android:textStyle="bold"
+        android:text="IKKAT FABRICS"
+      
+        android:layout_marginTop="25dp"
+        android:drawablePadding="10dp"/>
+    <Button
+        android:id="@+id/brocade"
+        android:background="@drawable/categorytextview"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="70dp"
+        android:textStyle="bold"
+        android:text="BROCADE FABRICS"
+      
+        android:layout_marginTop="25dp"
+        android:drawablePadding="10dp"/>
+
+    <Button
+        android:id="@+id/brocadeallover"
+        android:background="@drawable/categorytextview"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="70dp"
+        android:textStyle="bold"
+        android:text="BROCADE ALL OVER FABRICS"
+      
+        android:layout_marginTop="25dp"
+        android:drawablePadding="10dp"/>
+
+    <Button
+        android:id="@+id/brocadegarment"
+        android:background="@drawable/categorytextview"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="70dp"
+        android:textStyle="bold"
+        android:text="BROCADE GARMENT FABRICS"
+      
+        android:layout_marginTop="25dp"
+        android:drawablePadding="10dp"/>
+
+
+    <Button
+        android:id="@+id/chinafancy"
+        android:background="@drawable/categorytextview"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="70dp"
+        android:textStyle="bold"
+        android:text="CHINA FANCY JAQUARD FABRICS"
+      
+        android:layout_marginTop="25dp"
+        android:drawablePadding="10dp"/>
+
+
+    <Button
+        android:id="@+id/sherwani"
+        android:background="@drawable/categorytextview"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="70dp"
+        android:textStyle="bold"
+        android:text="SHERWANI FABRICS"
+      
+        android:layout_marginTop="25dp"
+        android:drawablePadding="10dp"/>
+
+
+    <Button
+        android:id="@+id/kachhi"
+        android:background="@drawable/categorytextview"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="70dp"
+        android:textStyle="bold"
+        android:text="KACHHI WORK FABRICS"
+      
+        android:layout_marginTop="25dp"
+        android:drawablePadding="10dp"/>
+
+    <Button
+        android:id="@+id/gamthi"
+        android:background="@drawable/categorytextview"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="70dp"
+        android:textStyle="bold"
+
+        android:text="GAMTHI FABRICS"
+      
+        android:layout_marginTop="25dp"
+        android:drawablePadding="10dp"/>
+
+</LinearLayout>
+</ScrollView>
